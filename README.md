@@ -5,4 +5,7 @@ Requirements:
 - Jupyter
 - pandas
 - matplotlib
-- 
+- numpy
+- datetime
+- seaborn
+- pandas_datareader
